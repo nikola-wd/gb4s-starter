@@ -1,4 +1,4 @@
-GBS - starter
+GB4S - starter
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -6,7 +6,7 @@ GBS - starter
 
 - It makes use of: 
 	G - Gulp
-	B - Bootstrap
+	B - Bootstrap4
 	S - Sass
 
 - Sass(.scss) architecture is made following css naming and file organization naming conventions / methodologies such as:
@@ -53,24 +53,6 @@ and minimize style.css file to be used in production.
    - _pages.scss (includes all the files in this dir)
    - _homepage.scss
         
- - UI-ELEMENTS (most of the bootstrap components + a support for responsive video embed)          
-   - _accordion.scss         
-   - _breadcrmbs.scss
-   - _buttons.scss
-   - _dropdowns.scss
-   - _forms.scss
-   - _icons.scss
-   - _lists.scss
-   - _media-obj.scss
-   - _modals.scss
-   - _pagination.scss
-   - _panel.scss
-   - _progress-bars.scss
-   - _sliders.scss
-   - _tables.scss
-   - _tooltips.scss
-   - _ui-elements.scss (includes all the files in this dir)
-   - _video.scss        
 
 - style.scss (inclides all the above directories and compiles to style.css)
 
