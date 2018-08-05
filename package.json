@@ -1,7 +1,26 @@
-{ 
-  "name" : "Nikola Ivanov",
-  "email" : "nikola.ivanov.wd@gmail.com",
-  "url" : "http://nikolaivanovwd.com/",
+{
+  "name": "gb4s-starter",
+  "version": "1.0.0",
+  "description": "lightweight starter for rapid development of static HTML / CSS / JS websites or templates to be used with backend frameworks or CMSes.",
+  "email": "nikola.ivanov.wd@gmail.com",
+  "url": "http://nikolaivanovwd.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikola-wd/gb4s-starter.git"
+  },
+  "keywords": [
+    "gulp",
+    "bootstrap4",
+    "sass",
+    "frontend",
+    "css",
+    "html",
+    "starter",
+    "boilerplate"
+  ],
+  "author": "Nikola Ivanov",
+  "license": "MIT",
+  "homepage": "https://github.com/nikola-wd/gb4s-starter",
   "devDependencies": {
     "browser-sync": "^2.18.8",
     "gulp": "^3.9.1",
